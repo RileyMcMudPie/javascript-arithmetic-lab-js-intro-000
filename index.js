@@ -25,13 +25,9 @@ function decrement(n){
 }
 
 function makeInt(n){
-  return parseInt('2', 10)
+  return parseInt('n', 10)
 }
 
-function makeInt(n){
-  return parseInt('2.22', 10)
-  
-}
 function makeInt(n){
   return parseInt('noopers', 10)
 }
